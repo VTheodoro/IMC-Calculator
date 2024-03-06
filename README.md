@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Este é um projeto simples de uma calculadora de Índice de Massa Corporal (IMC) desenvolvido durante a Feira das Profissões anual da ETEC de Registro, em 2023. O tema do projeto foi sobre cirurgia bariátrica e alimentação saudável, como parte do curso de Desenvolvimento de Sistemas.
+Este é um projeto simples de uma calculadora de Índice de Massa Corporal (IMC) desenvolvido durante a Feira das Profissões anual da **[ETEC de Registro](http://etecregistro.edu.br)**, em 2023. O tema do projeto foi sobre cirurgia bariátrica e alimentação saudável, como parte do curso de Desenvolvimento de Sistemas.
 
 ## Descrição
 
@@ -12,14 +12,14 @@ O IMC é uma medida que estima a quantidade de gordura corporal de uma pessoa co
 - **[Miguel Isack](https://github.com/MiguelSouza2)**
 - **[Mario Takahashi](https://github.com/mariotdias)**
 
-<img align="right" alt="coding" width="200" src="imgs/obesidade-imc.png">
-
 ## Utilização
 
 1. Insira seu peso em quilogramas no campo designado.
 2. Insira sua altura em metros no campo designado.
 3. Clique no botão "Calcular" para obter seu IMC.
 4. O resultado mostrará seu IMC e uma indicação sobre seu status de peso.
+
+<img width="400" src="imgs/obesidade-imc.png">
 
 <div align="left">  
 <h2>Tecnologias Utilizadas</h2>
