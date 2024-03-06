@@ -1,4 +1,4 @@
-# Calculadora de IMC
+# Calculadora de IMC - 2023
 
 Este é um projeto simples de uma calculadora de Índice de Massa Corporal (IMC) desenvolvido durante a Feira das Profissões anual da **[ETEC de Registro](http://etecregistro.edu.br)**, em 2023. O tema do projeto foi sobre cirurgia bariátrica e alimentação saudável, como parte do curso de Desenvolvimento de Sistemas.
 
